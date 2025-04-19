@@ -1,0 +1,54 @@
+body {
+  background: radial-gradient(circle at top left, #1b1f3b, #0f1125);
+  color: white;
+  color: #9e9ee8;
+}
+
+.gradient-btn {
+            background: linear-gradient(90deg, #ff4d7d, #ff8c5a);
+            border: none; 
+            color: white; 
+            font-weight: lighter;
+           
+            padding: 10px 20px; 
+            border-radius: 5px;
+            font-size: 0.7rem;
+}
+       
+        .small-text {
+            font-size: 0.7rem; 
+            color: #ccc; 
+            margin-top: 5px;
+            margin-bottom: 5px; 
+        }
+
+        .section-one {
+    margin-bottom: 3rem;
+}
+
+.grid {
+    margin-top: 3rem;
+}
+
+.section-two img{
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.grid i{
+    background-color: rgb(38, 38, 114); 
+     border-radius: 10px;
+    padding: 5px;
+}
+
+.faq-title {
+      text-align: center;
+      margin-top: 60px;
+      margin-bottom: 40px;
+    }
+    .faq-question {
+      font-weight: normal;
+      margin-top: 30px;
+    }
+
+    
